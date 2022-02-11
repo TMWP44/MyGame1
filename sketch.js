@@ -12,11 +12,11 @@ function preload() {
   backgroundImage = loadImage("../images/bg.png")
   car_img = loadImage("../images/car.png");
   track = loadImage("../images/road.png");
-  fuelImage = loadImage("./images/fuel.png");
-  obstacle1Image = loadImage("./images/obstacle1.png");
-  obstacle2Image = loadImage("./images/obstacle2.png");
-  lifeImage = loadImage("./images/life.png");
-  blastImg = loadImage("./images/blast.png");
+  fuelImage = loadImage("../images/fuel.png");
+  obstacle1Image = loadImage("../images/obstacle1.png");
+  obstacle2Image = loadImage("../images/obstacle2.png");
+  lifeImage = loadImage("../images/life.png");
+  blastImg = loadImage("../images/blast.png");
   playImg = loadImage("../images/play.png")
 }
 
